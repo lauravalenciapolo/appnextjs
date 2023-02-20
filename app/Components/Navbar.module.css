@@ -1,0 +1,10 @@
+.header {
+    border: 1px, solid, rgb(243, 57, 243);
+    border-radius: 4px;
+    padding: 4px;
+}
+.nav {
+    display: flex;
+    list-style: none;
+    gap: 32px;
+}
